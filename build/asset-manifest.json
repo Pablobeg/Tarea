@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.93df0cb7.css",
+    "main.js": "/static/js/main.49682fa0.js",
+    "static/js/787.ecaf6a77.chunk.js": "/static/js/787.ecaf6a77.chunk.js",
+    "static/media/mac.jpg": "/static/media/mac.b0998d9761df38f36fcf.jpg",
+    "static/media/programa.jpg": "/static/media/programa.2551006093227d0160c7.jpg",
+    "static/media/lenguajes.jpg": "/static/media/lenguajes.c49a54944d9894299f57.jpg",
+    "index.html": "/index.html",
+    "main.93df0cb7.css.map": "/static/css/main.93df0cb7.css.map",
+    "main.49682fa0.js.map": "/static/js/main.49682fa0.js.map",
+    "787.ecaf6a77.chunk.js.map": "/static/js/787.ecaf6a77.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.93df0cb7.css",
+    "static/js/main.49682fa0.js"
+  ]
+}
